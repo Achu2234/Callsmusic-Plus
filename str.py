@@ -20,9 +20,7 @@ print("""
                          _|                                     /        
 
 
-Github: https://github.com/Itz-fork/Callsmusic-Plus
-Docs: https://itz-fork.gitbook.io/callsmusic-plus
-Website: https://musicsnexabot.netlify.app
+Github: https://github.com/Achu2234/YuiMusicBot
 """)
 time.sleep(5) # Just for show off
 print("Enter Your APP ID and API HASH To Generate Pyrogram String Session.")
